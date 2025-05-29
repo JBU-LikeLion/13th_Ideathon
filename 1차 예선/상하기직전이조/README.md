@@ -4,7 +4,7 @@
 
 ## **팀원 소개 및 역할분담**
 
-![Team](/image/team.png)
+![Team](https://github.com/JBU-LikeLion/13th_Ideathon/blob/main/1%EC%B0%A8%20%EC%98%88%EC%84%A0/%EC%83%81%ED%95%98%EA%B8%B0%EC%A7%81%EC%A0%84%EC%9D%B4%EC%A1%B0/image/team.png)
 
 - 팀장👑: 김서진
 
@@ -28,11 +28,11 @@
 
 ### **2. 설문조사 결과**
 
-![survey](/image/survey.png)
+![survey](https://github.com/JBU-LikeLion/13th_Ideathon/blob/main/1%EC%B0%A8%20%EC%98%88%EC%84%A0/%EC%83%81%ED%95%98%EA%B8%B0%EC%A7%81%EC%A0%84%EC%9D%B4%EC%A1%B0/image/survey.png)
 
-![survey](/image/survey2.png)
+![survey](https://github.com/JBU-LikeLion/13th_Ideathon/blob/main/1%EC%B0%A8%20%EC%98%88%EC%84%A0/%EC%83%81%ED%95%98%EA%B8%B0%EC%A7%81%EC%A0%84%EC%9D%B4%EC%A1%B0/image/survey2.png)
 
-![survey](/image/survey3.png)
+![survey](https://github.com/JBU-LikeLion/13th_Ideathon/blob/main/1%EC%B0%A8%20%EC%98%88%EC%84%A0/%EC%83%81%ED%95%98%EA%B8%B0%EC%A7%81%EC%A0%84%EC%9D%B4%EC%A1%B0/image/survey3.png)
 
 </br>
 
@@ -40,7 +40,7 @@
 
 ### **1. 와이어프레임**
 
-![prototype](/image/wireframe2.png)
+![prototype](https://github.com/JBU-LikeLion/13th_Ideathon/blob/main/1%EC%B0%A8%20%EC%98%88%EC%84%A0/%EC%83%81%ED%95%98%EA%B8%B0%EC%A7%81%EC%A0%84%EC%9D%B4%EC%A1%B0/image/wireframe2.png)
 
 > 전체적인 UI 디자인 및 연결 구조
 
@@ -48,7 +48,7 @@
 
 ### **2. 스토리보드**
 
-![prototype](/image/story.png)
+![prototype](https://github.com/JBU-LikeLion/13th_Ideathon/blob/main/1%EC%B0%A8%20%EC%98%88%EC%84%A0/%EC%83%81%ED%95%98%EA%B8%B0%EC%A7%81%EC%A0%84%EC%9D%B4%EC%A1%B0/image/story.png)
 
 > 스토리보드
 
